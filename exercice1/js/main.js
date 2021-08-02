@@ -1,4 +1,4 @@
 // Changement couleur du carré en rouge avec la méthode <code>css</code>
-$(function($){
+$(function(){
     $("#square").css("background-color", "red");
   });
